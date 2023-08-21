@@ -13,7 +13,8 @@ In this backend project I build some api,
 
 ## Demo
 
-To see a demo of this project, check out this [Live](https://stackoverflowclone-1crj.onrender.com/). But for this we need to give authenticated.
+To see a demo of this project, check out this [Live](https://stackoverflowclone-1crj.onrender.com/). But for this we need to give authenticated. 
+- its work in my local address: '127.0.0.1'.
 
 - Create User:- POST -> http://localhost:8081/register
 - Login:- POST -> http://localhost:8081/login
